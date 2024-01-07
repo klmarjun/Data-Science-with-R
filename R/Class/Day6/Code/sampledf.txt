@@ -1,0 +1,4 @@
+"Name"	"Age"	"score"
+"Arjun"	25	98
+"Sandeep"	30	99
+"Sujan"	22	100
